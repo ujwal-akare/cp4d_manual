@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "usage": {
+      "last_updated_at": "2023-05-15T12:29:52Z",
+      "last_updater_id": "1000330999",
+      "last_update_time": 1684153792826,
+      "last_accessed_at": "2023-05-15T12:29:52Z",
+      "last_access_time": 1684153792826,
+      "last_accessor_id": "1000330999",
+      "access_count": 0
+    },
+    "rov": {
+      "mode": 0,
+      "collaborator_ids": {},
+      "member_roles": {
+        "1000330999": {
+          "user_iam_id": "1000330999",
+          "roles": [
+            "OWNER"
+          ]
+        }
+      }
+    },
+    "name": "applicant_personal_data.csv",
+    "asset_type": "data_asset",
+    "origin_country": "united states",
+    "resource_key": "applicant_personal_data.csv",
+    "rating": 0,
+    "total_ratings": 0,
+    "created": 1684153792826,
+    "created_at": "2023-05-15T12:29:52Z",
+    "owner_id": "1000330999",
+    "size": 879219,
+    "version": 2,
+    "asset_state": "available",
+    "asset_attributes": [
+      "data_asset"
+    ],
+    "asset_id": "data_asset.applicantpersonaldatacsv",
+    "asset_category": "USER",
+    "creator_id": "1000330999",
+    "source_asset": {
+      "action": "clone",
+      "catalog_id": "6648861f-0b56-4d43-b35b-b0b057cc95a2",
+      "asset_id": "c903d9b4-5db6-44b0-9834-80340a6f6bf9",
+      "bss_account_id": "999",
+      "asset_name": "applicant_personal_data.csv",
+      "resource_key": "applicant_personal_data.csv"
+    }
+  },
+  "entity": {
+    "data_asset": {
+      "mime_type": "text/csv",
+      "dataset": true
+    }
+  },
+  "attachments": [
+    {
+      "id": "10299ed8-f299-4b7e-99df-fb4470e73a6d",
+      "version": 2,
+      "asset_type": "data_asset",
+      "name": "applicant_personal_data.csv",
+      "mime": "text/csv",
+      "datasource_type": "81bafdbd-b7c6-45c5-a4fd-6ec135f66f4e",
+      "creator_id": "1000330999",
+      "create_time": 1684153320330,
+      "is_remote": false,
+      "is_managed": true,
+      "is_referenced": false,
+      "is_object_key_read_only": false,
+      "is_user_provided_path_key": false,
+      "transfer_complete": true,
+      "is_partitioned": false,
+      "complete_time_ticks": 1684153330280,
+      "user_data": {},
+      "test_doc": 0,
+      "handle": {
+        "type": "assetfiles",
+        "key": "data_asset/applicant_personal_data-as-data_asset.applicantpersonaldatacsv-nu.csv",
+        "upload_id": "done",
+        "max_part_num": 1
+      },
+      "usage": {
+        "access_count": 0,
+        "last_accessor_id": "1000330999",
+        "last_access_time": 1684153320330
+      },
+      "created_at": "2023-05-15T12:29:52Z",
+      "created": 1684153792827,
+      "last_accessor_id": "1000330999",
+      "last_access_time": 1684153792827,
+      "object_key": "data_asset/applicant_personal_data-as-data_asset.applicantpersonaldatacsv-nu.csv"
+    }
+  ]
+}
